@@ -53,7 +53,7 @@ Inheritance is a core concept in object-oriented programming (OOP) that allows o
 - **Polymorphism**: Supports the creation of more flexible and extensible systems by allowing derived classes to override base class methods.
 
 ## Codes :
-### 1 :
+### 1 : *Single Inheritance*
 ```
 //subham
 //entc B2
@@ -86,7 +86,7 @@ int main() {
 }
 ```
 
-### 2:
+### 2: *Multiple Inheritance*
 ```
 //subham
 //entc B2
@@ -137,7 +137,7 @@ int main() {
 }
 ```
 
-### 3:
+### 3: *Multilevel Inheritance*
 ```
 //subham
 //entc B2
@@ -206,7 +206,7 @@ int main() {
 }
 ```
 
-### 4:
+### 4: *Inheritance*
 ```
 //subham
 //entc B2
@@ -254,11 +254,17 @@ int main()
 ```
 
 ### outputs :
-### 1:
-### 2:
-### 3:
-### 4:
+### 1: *Single Inheritance*
+![Screenshot 2024-09-13 105830](https://github.com/user-attachments/assets/9e70d3ef-62e0-478f-8cb0-89ab75b65280)
 
+### 2: *Multiple Inheritance*
+![Screenshot 2024-09-13 105847](https://github.com/user-attachments/assets/cf49d5d0-2e8a-41c8-8e05-17a6ea88b0f8)
+
+### 3: *Multilevel Inheritance*
+![Screenshot 2024-09-13 105911](https://github.com/user-attachments/assets/e811a86e-ec8f-4508-8d56-9d61a633cd66)
+
+### 4: *Inheritance*
+![Screenshot 2024-09-13 105928](https://github.com/user-attachments/assets/1ae5cb8f-ad2c-4270-92ac-fb3451bd3f05)
 
 ### Conclusion :
 A useful object-oriented programming (OOP) technique in C++ is inheritance, which lets a class (also referred to as a derived class) inherit traits and actions (data members and member functions) from another class (referred to as the base class). It encourages flexibility, hierarchical relationships between classes, and reusing code. <BR>
